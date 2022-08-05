@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "0x52",
+  "address": "0x522dffc539c264a8f7e0b91102e899b33f4dabc3",
+  "risk": "2",
+  "title": "Arbitrary swap data allows MIMOAutoRebalance.sol#rebalance callers to maliciously MEV vaults",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/19"
+}
