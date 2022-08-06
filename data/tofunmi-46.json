@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "tofunmi",
+  "address": "0x9af5ae89089c75f18ab01ece220763d97fd0dfce",
+  "risk": "2",
+  "title": "Multicall does not check if the owner has changed after calls has been made(msg.sender misuse)",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/46"
+}
