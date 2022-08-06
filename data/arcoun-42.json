@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "arcoun",
+  "address": "0xc4a0fa56e054d96dc57d44ffcddf17c41ec6c558",
+  "risk": "2",
+  "title": "Registry not updated when proxy ownership is transferred",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/42"
+}
