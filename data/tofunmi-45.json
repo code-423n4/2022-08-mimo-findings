@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "tofunmi",
+  "address": "0x9af5ae89089c75f18ab01ece220763d97fd0dfce",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/45"
+}
