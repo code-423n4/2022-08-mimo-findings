@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "gogo",
+  "address": "0x8921d08f3068b3ba08c213eacfb744fbf75388c7",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/63"
+}
