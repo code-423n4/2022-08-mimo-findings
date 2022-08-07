@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "cccz",
+  "address": "0x74d754378a59ab45d3e6cac83f0b87e8e8719270",
+  "risk": "2",
+  "title": "The MIMOVaultActions contract cannot withdraw assets to the user",
+  "issueId": 103,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/103"
+}
