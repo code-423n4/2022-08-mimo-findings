@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "peritoflores",
+  "address": "0xCC9C3D6ed709D47255815FF5b5BB17A745B7CEED",
+  "risk": "3",
+  "title": "## [H2] Multicall can be called by a malicious contract after executing a malicious delegatecall ",
+  "issueId": 166,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/166"
+}
