@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "2",
+  "title": "safeIncreaseAllowance may fail on USDT case",
+  "issueId": 149,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/149"
+}
