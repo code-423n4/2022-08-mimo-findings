@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "cccz",
+  "address": "0x74d754378a59ab45d3e6cac83f0b87e8e8719270",
+  "risk": "3",
+  "title": "When a user is given the owner privilege of multiple MIMOProxy through transferOwnership, the user cannot choose which MIMOProxy to use as the current Proxy",
+  "issueId": 125,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/125"
+}
