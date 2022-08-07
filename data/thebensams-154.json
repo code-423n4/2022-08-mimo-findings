@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "thebensams",
+  "address": "0x77ca952092460102b3f4e315a57c484e2490d099",
+  "risk": "3",
+  "title": "Inadequate transferOwnership function prevents new owner from accessing funds",
+  "issueId": 154,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/154"
+}
