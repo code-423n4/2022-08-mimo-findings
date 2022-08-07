@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "cccz",
+  "address": "0x74d754378a59ab45d3e6cac83f0b87e8e8719270",
+  "risk": "3",
+  "title": "The lazy update of _currentProxies results in non-owners being able to execute functions that require owner privileges",
+  "issueId": 100,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/100"
+}
