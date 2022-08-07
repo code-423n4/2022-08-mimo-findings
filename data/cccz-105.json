@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "cccz",
+  "address": "0x74d754378a59ab45d3e6cac83f0b87e8e8719270",
+  "risk": "2",
+  "title": "MIMOProxy: The execute function needs to verify that _initialized > 0",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/105"
+}
