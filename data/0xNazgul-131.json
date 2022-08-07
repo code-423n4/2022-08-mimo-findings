@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "0xNazgul",
+  "address": "0x714af4c78135ec866a3cd34755bdb59cdb9b7246",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 131,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/131"
+}
