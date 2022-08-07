@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "ayeslick",
+  "address": "0x7ccdb6979cb9dfa867b842fae8243b3b3fda444d",
+  "risk": "2",
+  "title": "Caller is able to set management ```params``` in a ```MIMOManagedRebalance``` proxy he doesn't own",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/89"
+}
