@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "teddav",
+  "address": "0x76e2a7d7df47b735cd590d33051f2d8d5b8b5a8a",
+  "risk": "3",
+  "title": "Any permission can be used to execute any code in MimoProxy",
+  "issueId": 80,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/80"
+}
