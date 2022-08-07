@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "vlad_bochok",
+  "address": "0xe48ba3c77704b31c87d5bd4d0fd8317ff3ebfec9",
+  "risk": "3",
+  "title": "Incorrect implementation of access control in MIMOProxy:execute",
+  "issueId": 159,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/159"
+}
