@@ -1,0 +1,9 @@
+{
+  "contest": 150,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "3",
+  "title": "Everyone can perform emptyVaultOperation. Everyone can steal leftover par after repaying the loan from any vault. This pattern also applied to other files.",
+  "issueId": 150,
+  "issueUrl": "https://github.com/code-423n4/2022-08-mimo-findings/issues/150"
+}
