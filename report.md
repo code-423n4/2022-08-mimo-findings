@@ -1,3 +1,11 @@
+---
+sponsor: "Mimo DeFi"
+slug: "2022-08-mimo"
+date: "2022-10-17"
+title: "Mimo DeFi contest"
+findings: "https://github.com/code-423n4/2022-08-mimo-findings/issues"
+contest: 150
+---
 
 # Overview
 
